@@ -29,5 +29,6 @@
   },
   "dependencies": {
     "parcel": "^2.9.3"
-  }
+  },
+  "homepage": "https://vasylynasidei.github.io/sweety"
 }
